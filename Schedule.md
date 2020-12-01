@@ -32,7 +32,7 @@
 | 4/22  | Language Gen. / Review     |                               | [A4](https://github.com/iit-cs585/assignments/tree/master/a4) |[L25](lec/l25)|
 | 4/27  | The Future                 |                               |               |[L26](lec/l26)|
 | 4/29  | **Test 2**                 |                               |               |              |
-| Exam Time   |           |         |     [Report](https://github.com/iit-cs585/assignments/tree/master/project) & [presentation.pdf](https://github.com/iit-cs585/assignments/tree/master/project)       |          |
+| Exam Period   |           |         |     [Report](https://github.com/iit-cs585/assignments/tree/master/project) & [presentation.pdf](https://github.com/iit-cs585/assignments/tree/master/project)       |          |
 
 
 
