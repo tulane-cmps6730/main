@@ -29,11 +29,10 @@
 | 4/13  | Recursive Neural Nets                        |  [G10](http://www.deeplearningbook.org/contents/rnn.html)  |               |[L22](lec/l22)|
 | 4/15  | Convolutional Nets         | [G09](http://www.deeplearningbook.org/contents/convnets.html)  | Q3 |[L23](lec/l23)| 
 | 4/20  | Project Tips        | |     |[L24](lec/l24)|
-| 4/22  | Language Gen. / Review     |                               |                          |[L25](lec/l25)|
+| 4/22  | Language Gen. / Review     |                               | [A4](https://github.com/iit-cs585/assignments/tree/master/a4) |[L25](lec/l25)|
 | 4/27  | The Future                 |                               |               |[L26](lec/l26)|
 | 4/29  | **Test 2**                 |                               |               |              |
-| 4/28  |             |    | [A4](https://github.com/iit-cs585/assignments/tree/master/a4) &      [Report](https://github.com/iit-cs585/assignments/tree/master/project)   
-| Exam Time   |           |         |      [presentation.pdf](https://github.com/iit-cs585/assignments/tree/master/project)       |          |
+| Exam Time   |           |         |     [Report](https://github.com/iit-cs585/assignments/tree/master/project) & [presentation.pdf](https://github.com/iit-cs585/assignments/tree/master/project)       |          |
 
 
 
