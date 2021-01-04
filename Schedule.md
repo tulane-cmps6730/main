@@ -17,8 +17,8 @@
 | 3/02  | LR for Named Entity Rec.   | [JMv3Ch21.1](https://web.stanford.edu/~jurafsky/slp3/21.pdf)                         |               |[L12](lec/l12)|
 | 3/04  | Coreference Resolution     | notes                         | [A2](https://github.com/iit-cs585/assignments/tree/master/a2)|[L13](lec/l13)|
 | 3/09  | Machine Transl. / Review   | [JM](read/JM.pdf)21           |                |[L14](lec/l14)|
-| 3/11  | Neural Nets                | [G6](http://www.deeplearningbook.org/contents/mlp.html) | | [L15](lec/l15)|
-| 3/16  |  **Test 1**                |                               |               |              |
+| 3/11  |  **Test 1**                |                               |               |              |
+| 3/16  | Neural Nets                | [G6](http://www.deeplearningbook.org/contents/mlp.html) | | [L15](lec/l15)|
 | 3/18  | Neural Nets                | [G6](http://www.deeplearningbook.org/contents/mlp.html)|               |[L16](lec/l16)|
 | 3/23  | Distributed Word Repr.     | [G6](http://www.deeplearningbook.org/contents/mlp.html) |               |[L17](lec/l17)|
 | 3/25  | Recurrent Neural Nets      | [G10](http://www.deeplearningbook.org/contents/rnn.html) |[A3](https://github.com/iit-cs585/assignments/tree/master/a3)|[L18](lec/l18)|
