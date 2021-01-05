@@ -21,10 +21,10 @@
 | 03/11 | --**test 1**--                           |               |
 | | **translation** |
 | 03/16 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 1                     | [SLP11](r/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)
-| 03/18 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 2                     | [SLP11](r/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | Q4
+| 03/18 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 2                     | [SLP11](r/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | Q3
 | | **parsing** |
 | 03/23 | &nbsp;&nbsp;&nbsp;&nbsp; context-free grammars                 | [SLP12](r/slp12.pdf)
-| 03/25 | &nbsp;&nbsp;&nbsp;&nbsp; cky parsing                           | [SLP13](r/slp13.pdf)         | Q5
+| 03/25 | &nbsp;&nbsp;&nbsp;&nbsp; cky parsing                           | [SLP13](r/slp13.pdf)         | Q4
 | 03/30 | &nbsp;&nbsp;&nbsp;&nbsp; dependency parsing                    | [SLP14](r/slp14.pdf)
 | 04/01 | &nbsp;&nbsp;&nbsp;&nbsp; project mvp / feedback                |               | [Project milestone](https://tulane.instructure.com/courses/2232081/discussion_topics/13155239)
 | | **ethics** |
@@ -34,7 +34,7 @@
 | 04/13 | &nbsp;&nbsp;&nbsp;&nbsp; relation extraction                   | [SLP17](r/slp17.pdf)  | HW3 
 | 04/15 | &nbsp;&nbsp;&nbsp;&nbsp; coreference resolution                | [SLP21](r/slp21.pdf)
 | | **chatbots** |
-| 04/20 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](r/slp24.pdf)
+| 04/20 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](r/slp24.pdf)  | Q5
 | 04/22 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](r/slp24.pdf)
 | 04/27 | --**test 2**--                            |                |
 | 04/29 | wrapup, project tips                  | 
