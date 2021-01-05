@@ -1,6 +1,6 @@
 | Date  | Topic                                 | Readings                      | Due           | 
 | ----- |---------------------------------------|-------------------------------|---------------|
-| 01/19 | overview                              | [SLP1](read/slp1.pdf) |               |
+| 01/19 | [overview](https://nbviewer.jupyter.org/github/tulane-cmps6730/main/blob/main/lec/overview/overview.ipynb?flush_cache=True)                              | [SLP1](read/slp1.pdf) |               |
 | | **classification** |
 | 01/21 | &nbsp;&nbsp;&nbsp;&nbsp; naive bayes                           | [SLP4](read/slp4.pdf)
 | 01/26 | &nbsp;&nbsp;&nbsp;&nbsp; logistic regression                   | [SLP5](read/slp5.pdf)
