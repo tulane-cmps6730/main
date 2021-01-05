@@ -6,7 +6,7 @@
 | 01/26 | &nbsp;&nbsp;&nbsp;&nbsp; logistic regression                   | [SLP5](r/slp5.pdf)
 | 01/28 | &nbsp;&nbsp;&nbsp;&nbsp; neural nets                           | [SLP7](r/slp7.pdf)                              | Q1
 | | **language models** |
-| 02/02 | &nbsp;&nbsp;&nbsp;&nbsp; n-grams                               | [SLP3](r/slp3.pdf)                             | 
+| 02/02 | &nbsp;&nbsp;&nbsp;&nbsp; n-grams                               | [SLP3](r/slp3.pdf)                             | HW0
 | 02/04 | &nbsp;&nbsp;&nbsp;&nbsp; word representations                  | [SLP6](r/slp6.pdf)                             | [Project ideas](https://forms.gle/3T6Fg9ge4VxQk2rD6)
 | 02/09 | &nbsp;&nbsp;&nbsp;&nbsp; neural models: word2vec, glove        | [SLP6](r/slp6.pdf)                             |
 | 02/11 | &nbsp;&nbsp;&nbsp;&nbsp; bert / elmo                           | [Smith](https://arxiv.org/pdf/1902.06006.pdf), [Devlin](https://arxiv.org/pdf/1810.04805.pdf) |  HW1
