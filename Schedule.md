@@ -13,15 +13,15 @@
 | 02/16 | --*mardi gras*--
 | | **sequence labeling** |
 | 02/18 | &nbsp;&nbsp;&nbsp;&nbsp; hidden markov models                  | [SLP8](r/slp8.pdf)
-| 02/23 | &nbsp;&nbsp;&nbsp;&nbsp; hidden markov models                  | [SLPA](r/slpA.pdf)1   | Q2
+| 02/23 | &nbsp;&nbsp;&nbsp;&nbsp; hidden markov models                  | [SLPA](r/slpA.pdf)   | Q2
 | 02/25 | &nbsp;&nbsp;&nbsp;&nbsp; conditional random fields             | [SLP8](r/slp8.pdf)          
-| 03/02 | &nbsp;&nbsp;&nbsp;&nbsp; recurrent neural networks             | [SLP9](r/slp9.pdf), G10     | Project proposal
+| 03/02 | &nbsp;&nbsp;&nbsp;&nbsp; recurrent neural networks             | [SLP9](r/slp9.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)     | Project proposal
 | 03/04 | &nbsp;&nbsp;&nbsp;&nbsp; long short-term memory                | [SLP9](r/slp9.pdf), [Lipton](https://arxiv.org/abs/1506.00019)
 | 03/09 | &nbsp;&nbsp;&nbsp;&nbsp; transformers                          |               | HW2 
 | 03/11 | --**test 1**--                           |               |
 | | **translation** |
-| 03/16 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 1                     | [SLP11](r/slp11.pdf), G10
-| 03/18 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 2                     | [SLP11](r/slp11.pdf), G10    | Q4
+| 03/16 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 1                     | [SLP11](r/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)
+| 03/18 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 2                     | [SLP11](r/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | Q4
 | | **parsing** |
 | 03/23 | &nbsp;&nbsp;&nbsp;&nbsp; context-free grammars                 | [SLP12](r/slp12.pdf)
 | 03/25 | &nbsp;&nbsp;&nbsp;&nbsp; cky parsing                           | [SLP13](r/slp13.pdf)         | Q5
@@ -31,11 +31,11 @@
 | 04/06 | &nbsp;&nbsp;&nbsp;&nbsp;  fairness, transparency, and ethics   | 
 | 04/08 |  --*laginappe*--
 | | **information extraction** |
-| 04/13 | &nbsp;&nbsp;&nbsp;&nbsp; relation extraction                   | [SLP17](r/slp17.pdf), SLP21  | HW3 
+| 04/13 | &nbsp;&nbsp;&nbsp;&nbsp; relation extraction                   | [SLP17](r/slp17.pdf)  | HW3 
 | 04/15 | &nbsp;&nbsp;&nbsp;&nbsp; coreference resolution                | [SLP21](r/slp21.pdf)
 | | **chatbots** |
-| 04/20 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](r/slp24.pdf), E19
-| 04/22 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](r/slp24.pdf), E19
+| 04/20 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](r/slp24.pdf)
+| 04/22 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](r/slp24.pdf)
 | 04/27 | --**test 2**--                            |                |
 | 04/29 | wrapup, project tips                  | 
 | 05/07 | project presentations                                          |               | final project deliverables
