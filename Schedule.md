@@ -29,7 +29,7 @@
 | 04/01 | &nbsp;&nbsp;&nbsp;&nbsp; project mvp / feedback                |               | [Project milestone](https://github.com/tulane-cmps6730/assignments/tree/main/project)
 | | **ethics** |
 | 04/06 | &nbsp;&nbsp;&nbsp;&nbsp;  fairness, transparency, and ethics   | 
-| 04/08 |  --*laginappe*--
+| 04/08 |  --*lagniappe day*--
 | | **information extraction** |
 | 04/13 | &nbsp;&nbsp;&nbsp;&nbsp; relation extraction                   | [SLP17](r/slp17.pdf)  | HW3 
 | 04/15 | &nbsp;&nbsp;&nbsp;&nbsp; coreference resolution                | [SLP21](r/slp21.pdf)
