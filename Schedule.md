@@ -2,9 +2,9 @@
 | ----- |---------------------------------------|-------------------------------|---------------|
 | 01/19 | [overview](https://nbviewer.jupyter.org/github/tulane-cmps6730/main/blob/main/lec/overview/overview.ipynb?flush_cache=True)                              | [SLP1](read/slp1.pdf) |               |
 | | **classification** |
-| 01/21 | &nbsp;&nbsp;&nbsp;&nbsp; naive bayes                           | [SLP4](read/slp4.pdf)
-| 01/26 | &nbsp;&nbsp;&nbsp;&nbsp; logistic regression                   | [SLP5](read/slp5.pdf)
-| 01/28 | &nbsp;&nbsp;&nbsp;&nbsp; neural nets                           | [SLP7](read/slp7.pdf)                              | Q1
+| 01/21 | &nbsp;&nbsp;&nbsp;&nbsp; [naive bayes](https://nbviewer.jupyter.org/github/tulane-cmps6730/main/blob/main/lec/classify/bayes.ipynb?flush_cache=True)                           | [SLP4](read/slp4.pdf)
+| 01/26 | &nbsp;&nbsp;&nbsp;&nbsp; [logistic regression](https://nbviewer.jupyter.org/github/tulane-cmps6730/main/blob/main/lec/classify/logistic.ipynb?flush_cache=True)                   | [SLP5](read/slp5.pdf)
+| 01/28 | &nbsp;&nbsp;&nbsp;&nbsp; [neural nets](https://nbviewer.jupyter.org/github/tulane-cmps6730/main/blob/main/lec/classify/neural.ipynb?flush_cache=True)                           | [SLP7](read/slp7.pdf)                              | Q1
 | | **language models** |
 | 02/02 | &nbsp;&nbsp;&nbsp;&nbsp; n-grams                               | [SLP3](read/slp3.pdf)                             | HW0
 | 02/04 | &nbsp;&nbsp;&nbsp;&nbsp; word representations                  | [SLP6](read/slp6.pdf)                             | [Project ideas](https://tulane.instructure.com/courses/2232081/discussion_topics/13155237)
