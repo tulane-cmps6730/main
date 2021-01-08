@@ -28,7 +28,7 @@
 | 03/30 | &nbsp;&nbsp;&nbsp;&nbsp; dependency parsing                    | [SLP14](read/slp14.pdf)
 | 04/01 | &nbsp;&nbsp;&nbsp;&nbsp; project mvp / feedback                |               | [Project milestone](https://tulane.instructure.com/courses/2232081/discussion_topics/13155239)
 | | **ethics** |
-| 04/06 | &nbsp;&nbsp;&nbsp;&nbsp;  fairness, transparency, and ethics   | 
+| 04/06 | &nbsp;&nbsp;&nbsp;&nbsp;  fairness, transparency, and ethics   | [H&S](https://www.aclweb.org/anthology/P16-2096.pdf)+[Video](https://www.youtube.com/watch?v=fMym_BKWQzk) |
 | 04/08 |  --*lagniappe day*--
 | | **information extraction** |
 | 04/13 | &nbsp;&nbsp;&nbsp;&nbsp; relation extraction                   | [SLP17](read/slp17.pdf)  | HW3 
@@ -38,4 +38,4 @@
 | 04/22 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](read/slp24.pdf)
 | 04/27 | --**test 2**--                            |                |
 | 04/29 | wrapup, project tips                  | 
-| 05/06 | project presentations                                          |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
+| 05/11 | project presentations (8a-11a)                                          |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
