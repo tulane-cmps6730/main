@@ -1,4 +1,3 @@
-For best viewing, either download lectures locally or use nbviewer:
+The best way to view the lectures is to clone this repository and run them in Jupyter.
 
-<https://nbviewer.jupyter.org/github/tulane-cmps6730/main/tree/main/>
-
+Alternatively, you can view static html copies linked from the [Schedule](../Schedule.md)
