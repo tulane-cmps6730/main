@@ -38,4 +38,4 @@
 | 04/22 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](read/slp24.pdf)
 | 04/27 | --**test 2**--                            |                |
 | 04/29 | wrapup, project tips                  | 
-| 05/06 | project presentations                                          |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
+| 05/11 | project presentations (8a-11a)                                          |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
