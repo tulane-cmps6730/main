@@ -6,8 +6,8 @@
 | 01/26 | &nbsp;&nbsp;&nbsp;&nbsp; [logistic regression](https://nbviewer.jupyter.org/github/tulane-cmps6730/main/blob/main/lec/classify/logistic.ipynb?flush_cache=True)                   | [SLP5](read/slp5.pdf)
 | 01/28 | &nbsp;&nbsp;&nbsp;&nbsp; [neural nets](https://nbviewer.jupyter.org/github/tulane-cmps6730/main/blob/main/lec/classify/neural.ipynb?flush_cache=True)                           | [SLP7](read/slp7.pdf)                              | Q1
 | | **language models** |
-| 02/02 | &nbsp;&nbsp;&nbsp;&nbsp; n-grams                               | [SLP3](read/slp3.pdf)                             | HW0
-| 02/04 | &nbsp;&nbsp;&nbsp;&nbsp; word representations                  | [SLP6](read/slp6.pdf)                             | [Project ideas](https://tulane.instructure.com/courses/2232081/discussion_topics/13155237)
+| 02/02 | &nbsp;&nbsp;&nbsp;&nbsp; [n-grams](https://nbviewer.jupyter.org/github/tulane-cmps6730/main/blob/main/lec/language_models/ngrams.ipynb?flush_cache=True)                               | [SLP3](read/slp3.pdf)                             | HW0
+| 02/04 | &nbsp;&nbsp;&nbsp;&nbsp; [word representations](https://nbviewer.jupyter.org/github/tulane-cmps6730/main/blob/main/lec/language_models/word_rep.ipynb?flush_cache=True)                   | [SLP6](read/slp6.pdf)                             | [Project ideas](https://tulane.instructure.com/courses/2232081/discussion_topics/13155237)
 | 02/09 | &nbsp;&nbsp;&nbsp;&nbsp; neural models: word2vec, glove        | [SLP6](read/slp6.pdf)                             |
 | 02/11 | &nbsp;&nbsp;&nbsp;&nbsp; bert / elmo                           | [Smith](https://arxiv.org/pdf/1902.06006.pdf), [Devlin](https://arxiv.org/pdf/1810.04805.pdf) |  HW1
 | 02/16 | --*mardi gras*--
