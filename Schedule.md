@@ -1,3 +1,5 @@
+subject to change
+
 | Date  | Topic                                 | Readings                      | Due           | 
 | ----- |---------------------------------------|-------------------------------|---------------|
 | 01/19 | [overview](http://cs.tulane.edu/~aculotta/nlp/overview/overview.html)                              | [SLP1](read/slp1.pdf) |               |
