@@ -6,12 +6,13 @@ subject to change
 | | **classification** |
 | 01/21 | &nbsp;&nbsp;&nbsp;&nbsp; [naive bayes](http://cs.tulane.edu/~aculotta/nlp/classify/bayes.html)                           | [SLP4](read/slp4.pdf)
 | 01/26 | &nbsp;&nbsp;&nbsp;&nbsp; [logistic regression](http://cs.tulane.edu/~aculotta/nlp/classify/logistic.html)                   | [SLP5](read/slp5.pdf)
-| 01/28 | &nbsp;&nbsp;&nbsp;&nbsp; [neural nets](http://cs.tulane.edu/~aculotta/nlp/classify/neural.html)                           | [SLP7](read/slp7.pdf)                              | Q1
+| 01/28 | &nbsp;&nbsp;&nbsp;&nbsp; [neural nets](http://cs.tulane.edu/~aculotta/nlp/classify/neural.html)                           | [SLP7](read/slp7.pdf)                              | 
+| 01/29 |                   |                       | Q1
 | | **language models** |
 | 02/02 | &nbsp;&nbsp;&nbsp;&nbsp; [n-grams](http://cs.tulane.edu/~aculotta/nlp/language_models/ngrams.html)                               | [SLP3](read/slp3.pdf)                             | HW0
 | 02/04 | &nbsp;&nbsp;&nbsp;&nbsp; [word representations](http://cs.tulane.edu/~aculotta/nlp/language_models/word_rep.html)                   | [SLP6](read/slp6.pdf)                             | [Project ideas](https://tulane.instructure.com/courses/2232081/discussion_topics/13155237)
 | 02/09 | &nbsp;&nbsp;&nbsp;&nbsp; neural models: word2vec, glove        | [SLP6](read/slp6.pdf)                             |
-| 02/11 | &nbsp;&nbsp;&nbsp;&nbsp; bert / elmo                           | [Smith](https://arxiv.org/pdf/1902.06006.pdf), [Devlin](https://arxiv.org/pdf/1810.04805.pdf) |  HW1
+| 02/11 | &nbsp;&nbsp;&nbsp;&nbsp; bert / elmo                           | [Smith](https://arxiv.org/pdf/1902.06006.pdf), [Devlin](https://arxiv.org/pdf/1810.04805.pdf) |  [HW1](https://github.com/tulane-cmps6730/assignments/tree/main/hw1)
 | 02/16 | --*mardi gras*--
 | | **sequence labeling** |
 | 02/18 | &nbsp;&nbsp;&nbsp;&nbsp; hidden markov models                  | [SLP8](read/slp8.pdf)
