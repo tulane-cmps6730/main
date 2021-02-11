@@ -17,10 +17,10 @@ subject to change
 | | **sequence labeling** |
 | 02/18 | &nbsp;&nbsp;&nbsp;&nbsp; hidden markov models                  | [SLP8](read/slp8.pdf)
 | 02/23 | &nbsp;&nbsp;&nbsp;&nbsp; hidden markov models                  | [SLPA](read/slpA.pdf)   | Q2
-| 02/25 | &nbsp;&nbsp;&nbsp;&nbsp; conditional random fields             | [SLP8](read/slp8.pdf)          
-| 03/02 | &nbsp;&nbsp;&nbsp;&nbsp; recurrent neural networks             | [SLP9](read/slp9.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)     | [Project proposal](https://tulane.instructure.com/courses/2232081/discussion_topics/13155238)
-| 03/04 | &nbsp;&nbsp;&nbsp;&nbsp; long short-term memory                | [SLP9](read/slp9.pdf), [Lipton](https://arxiv.org/abs/1506.00019)
-| 03/09 | &nbsp;&nbsp;&nbsp;&nbsp; transformers                          |               | HW2 
+| 02/25 |  &nbsp;&nbsp;&nbsp;&nbsp; recurrent neural networks             | [SLP9](read/slp9.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html), [Awesome blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)   |          
+| 03/02 | &nbsp;&nbsp;&nbsp;&nbsp; long short-term memory                | [SLP9](read/slp9.pdf), [Lipton](https://arxiv.org/abs/1506.00019) | [Project proposal](https://tulane.instructure.com/courses/2232081/discussion_topics/13155238)
+| 03/04 | &nbsp;&nbsp;&nbsp;&nbsp; transformers              | [SLP8](read/slp8.pdf)
+| 03/09 | &nbsp;&nbsp;&nbsp;&nbsp; conditional random fields                    |               | HW2 
 | 03/11 | --**test 1**--                           |               |
 | | **translation** |
 | 03/16 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 1                     | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)
