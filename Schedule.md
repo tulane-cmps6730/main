@@ -15,8 +15,8 @@ subject to change
 | 02/11 | &nbsp;&nbsp;&nbsp;&nbsp; [bert / elmo](http://cs.tulane.edu/~aculotta/nlp/language_models/elmo.html)                            | [Smith](https://arxiv.org/pdf/1902.06006.pdf), [Devlin](https://arxiv.org/pdf/1810.04805.pdf) |  [HW1](https://github.com/tulane-cmps6730/assignments/tree/main/hw1)
 | 02/16 | --*mardi gras*--
 | | **sequence labeling** |
-| 02/18 | &nbsp;&nbsp;&nbsp;&nbsp; hidden markov models                  | [SLP8](read/slp8.pdf)
-| 02/23 | &nbsp;&nbsp;&nbsp;&nbsp; hidden markov models                  | [SLPA](read/slpA.pdf)   | Q2
+| 02/18 | &nbsp;&nbsp;&nbsp;&nbsp; [hidden markov models](http://cs.tulane.edu/~aculotta/nlp/sequence/hmm1.html)                  | [SLP8](read/slp8.pdf)
+| 02/23 | &nbsp;&nbsp;&nbsp;&nbsp; [hidden markov models](http://cs.tulane.edu/~aculotta/nlp/sequence/hmm1.html)                  | [SLPA](read/slpA.pdf)   | Q2
 | 02/25 |  &nbsp;&nbsp;&nbsp;&nbsp; recurrent neural networks             | [SLP9](read/slp9.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html), [Awesome blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)   |          
 | 03/02 | &nbsp;&nbsp;&nbsp;&nbsp; long short-term memory                | [SLP9](read/slp9.pdf), [Lipton](https://arxiv.org/abs/1506.00019) | [Project proposal](https://tulane.instructure.com/courses/2232081/discussion_topics/13155238)
 | 03/04 | &nbsp;&nbsp;&nbsp;&nbsp; transformers              | [SLP9](read/slp9.pdf)
