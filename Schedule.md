@@ -18,7 +18,7 @@ subject to change
 | 02/18 | &nbsp;&nbsp;&nbsp;&nbsp; [hidden markov models](http://cs.tulane.edu/~aculotta/nlp/sequence/hmm1.html)                  | [SLP8](read/slp8.pdf)
 | 02/23 | &nbsp;&nbsp;&nbsp;&nbsp; [hidden markov models](http://cs.tulane.edu/~aculotta/nlp/sequence/hmm2.html)                  | [SLPA](read/slpA.pdf)   | Q2
 | 02/25 |  &nbsp;&nbsp;&nbsp;&nbsp; [recurrent neural networks](http://cs.tulane.edu/~aculotta/nlp/sequence/rnn.html)              | [SLP9](read/slp9.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html), [Awesome blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)   |          
-| 03/02 | &nbsp;&nbsp;&nbsp;&nbsp; long short-term memory                | [SLP9](read/slp9.pdf), [Lipton](https://arxiv.org/abs/1506.00019) | [Project proposal](https://tulane.instructure.com/courses/2232081/discussion_topics/13155238)
+| 03/02 | &nbsp;&nbsp;&nbsp;&nbsp; [long short-term memory](http://cs.tulane.edu/~aculotta/nlp/sequence/lstm.html)                 | [SLP9](read/slp9.pdf), [Lipton](https://arxiv.org/abs/1506.00019) | [Project proposal](https://tulane.instructure.com/courses/2232081/discussion_topics/13155238)
 | 03/04 | &nbsp;&nbsp;&nbsp;&nbsp; transformers              | [SLP9](read/slp9.pdf)
 | 03/09 | &nbsp;&nbsp;&nbsp;&nbsp; conditional random fields                    |   [SLP8](read/slp8.pdf)            | [HW2](https://github.com/tulane-cmps6730/assignments/tree/main/hw2) 
 | 03/11 | --**test 1**--                           |               |
