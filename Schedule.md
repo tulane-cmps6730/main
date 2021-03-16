@@ -24,7 +24,7 @@ subject to change
 | 03/11 | --**test 1**--                           |               |
 | | **translation** |
 | 03/16 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 1                     | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)
-| 03/18 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 2                     | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | Q3
+| 03/18 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 2                     | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | <del>Q3</del>
 | | **parsing** |
 | 03/23 | &nbsp;&nbsp;&nbsp;&nbsp; context-free grammars                 | [SLP12](read/slp12.pdf)
 | 03/25 | &nbsp;&nbsp;&nbsp;&nbsp; cky parsing                           | [SLP13](read/slp13.pdf)         | Q4
