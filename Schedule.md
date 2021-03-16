@@ -23,7 +23,7 @@ subject to change
 | 03/09 | &nbsp;&nbsp;&nbsp;&nbsp; [conditional random fields](http://cs.tulane.edu/~aculotta/nlp/sequence/crf.html)                    |   [SLP8](read/slp8.pdf)            | [HW2](https://github.com/tulane-cmps6730/assignments/tree/main/hw2) 
 | 03/11 | --**test 1**--                           |               |
 | | **translation** |
-| 03/16 | &nbsp;&nbsp;&nbsp;&nbsp; [encoder-decoder 1](http://cs.tulane.edu/~aculotta/nlp/sequence/translation1.html)                     | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)
+| 03/16 | &nbsp;&nbsp;&nbsp;&nbsp; [encoder-decoder 1](http://cs.tulane.edu/~aculotta/nlp/translation/translation1.html)                     | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)
 | 03/18 | &nbsp;&nbsp;&nbsp;&nbsp; encoder-decoder 2                     | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | <del>Q3</del>
 | | **parsing** |
 | 03/23 | &nbsp;&nbsp;&nbsp;&nbsp; context-free grammars                 | [SLP12](read/slp12.pdf)
