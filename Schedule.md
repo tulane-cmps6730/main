@@ -26,7 +26,7 @@ subject to change
 | 03/16 | &nbsp;&nbsp;&nbsp;&nbsp; [encoder-decoder 1](http://cs.tulane.edu/~aculotta/nlp/translation/translation1.html)                     | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)
 | 03/18 | &nbsp;&nbsp;&nbsp;&nbsp; [encoder-decoder 2](http://cs.tulane.edu/~aculotta/nlp/translation/translation1.html)                    | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | <del>Q3</del>
 | | **parsing** |
-| 03/23 | &nbsp;&nbsp;&nbsp;&nbsp; context-free grammars                 | [SLP12](read/slp12.pdf)
+| 03/23 | &nbsp;&nbsp;&nbsp;&nbsp; [context-free grammars](http://cs.tulane.edu/~aculotta/nlp/parsing/cfg.html)                 | [SLP12](read/slp12.pdf)
 | 03/25 | &nbsp;&nbsp;&nbsp;&nbsp; cky parsing                           | [SLP13](read/slp13.pdf)         | Q4
 | 03/30 | &nbsp;&nbsp;&nbsp;&nbsp; dependency parsing                    | [SLP14](read/slp14.pdf)
 | 04/01 | &nbsp;&nbsp;&nbsp;&nbsp; project mvp / feedback                |               | [Project milestone](https://tulane.instructure.com/courses/2232081/discussion_topics/13155239)
