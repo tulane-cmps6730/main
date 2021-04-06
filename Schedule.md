@@ -28,7 +28,7 @@ subject to change
 | | **parsing** |
 | 03/23 | &nbsp;&nbsp;&nbsp;&nbsp; [context-free grammars](http://cs.tulane.edu/~aculotta/nlp/parsing/cfg.html)                 | [SLP12](read/slp12.pdf)
 | 03/25 | &nbsp;&nbsp;&nbsp;&nbsp; [cky parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/pcfg.html)                           | [SLP13](read/slp13.pdf)         | Q4
-| 03/30 | &nbsp;&nbsp;&nbsp;&nbsp; dependency parsing                    | [SLP14](read/slp14.pdf)
+| 03/30 | &nbsp;&nbsp;&nbsp;&nbsp; [dependency parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/dependency.html)                    | [SLP14](read/slp14.pdf)
 | 04/01 | &nbsp;&nbsp;&nbsp;&nbsp; project mvp / feedback                |               | [Project milestone](https://tulane.instructure.com/courses/2232081/discussion_topics/13155239)
 | | **ethics** |
 | 04/06 | &nbsp;&nbsp;&nbsp;&nbsp;  fairness, transparency, and ethics   | [H&S](https://www.aclweb.org/anthology/P16-2096.pdf)+[Video](https://www.youtube.com/watch?v=fMym_BKWQzk) |
