@@ -34,7 +34,7 @@ subject to change
 | 04/06 | &nbsp;&nbsp;&nbsp;&nbsp;  [fairness, transparency, and ethics](http://cs.tulane.edu/~aculotta/nlp/ethics/ethics.html)   | [H&S](https://www.aclweb.org/anthology/P16-2096.pdf)+[Video](https://www.youtube.com/watch?v=fMym_BKWQzk) |
 | 04/08 |  --*lagniappe day*--
 | | **information extraction** |
-| 04/13 | &nbsp;&nbsp;&nbsp;&nbsp; relation extraction                   | [SLP17](read/slp17.pdf)  |  
+| 04/13 | &nbsp;&nbsp;&nbsp;&nbsp; [relation extraction](http://cs.tulane.edu/~aculotta/nlp/ie/re.html)                    | [SLP17](read/slp17.pdf)  |  
 | 04/15 | &nbsp;&nbsp;&nbsp;&nbsp; coreference resolution                | [SLP21](read/slp21.pdf)  | Q5
 | | **chatbots** |
 | 04/20 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](read/slp24.pdf)  | 
