@@ -35,7 +35,7 @@ subject to change
 | 04/08 |  --*lagniappe day*--
 | | **information extraction** |
 | 04/13 | &nbsp;&nbsp;&nbsp;&nbsp; [relation extraction](http://cs.tulane.edu/~aculotta/nlp/ie/re.html)                    | [SLP17](read/slp17.pdf)  |  
-| 04/15 | &nbsp;&nbsp;&nbsp;&nbsp; coreference resolution                | [SLP21](read/slp21.pdf)  | Q5
+| 04/15 | &nbsp;&nbsp;&nbsp;&nbsp; [coreference resolution](http://cs.tulane.edu/~aculotta/nlp/ie/coref.html)                 | [SLP21](read/slp21.pdf)  | Q5
 | | **chatbots** |
 | 04/20 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](read/slp24.pdf)  | 
 | 04/22 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](read/slp24.pdf)  | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
