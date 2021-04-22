@@ -37,8 +37,9 @@ subject to change
 | 04/13 | &nbsp;&nbsp;&nbsp;&nbsp; [relation extraction](http://cs.tulane.edu/~aculotta/nlp/ie/re.html)                    | [SLP17](read/slp17.pdf)  |  
 | 04/15 | &nbsp;&nbsp;&nbsp;&nbsp; [coreference resolution](http://cs.tulane.edu/~aculotta/nlp/ie/coref.html)                 | [SLP21](read/slp21.pdf)  | Q5
 | | **chatbots** |
-| 04/20 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](read/slp24.pdf)  | 
-| 04/22 | &nbsp;&nbsp;&nbsp;&nbsp; text generation / chatbots            | [SLP24](read/slp24.pdf)  | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
+| 04/20 | &nbsp;&nbsp;&nbsp;&nbsp; [text generation / chatbots](http://cs.tulane.edu/~aculotta/nlp/chat/chat1.html)             | [SLP24](read/slp24.pdf)  | 
+| 04/22 | &nbsp;&nbsp;&nbsp;&nbsp; [text generation / chatbots](http://cs.tulane.edu/~aculotta/nlp/chat/chat2.html)            | [SLP24](read/slp24.pdf)  | 
+| 04/23 | | | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
 | 04/27 | --**test 2**--                            |                |
 | 04/29 | wrapup, project tips                  | 
 | 05/11 | project presentations (8a-11a)                                          |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
