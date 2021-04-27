@@ -42,4 +42,4 @@ subject to change
 | 04/23 | | | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
 | 04/27 | --**test 2**--                            |                |
 | 04/29 | wrapup, project tips                  | 
-| 05/11 | project presentations (8a-11a)                                          |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
+| 05/11 | project presentations (9a-11a)                                          |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
