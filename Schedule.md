@@ -41,5 +41,5 @@ subject to change
 | 04/22 | &nbsp;&nbsp;&nbsp;&nbsp; [text generation / chatbots](http://cs.tulane.edu/~aculotta/nlp/chat/chat2.html)            | [SLP24](read/slp24.pdf)  | 
 | 04/23 | | | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
 | 04/27 | --**test 2**--                            |                |
-| 04/29 | [wrapup, project tips]((http://cs.tulane.edu/~aculotta/nlp/theend/tips.html)                  | 
+| 04/29 | [wrapup, project tips](http://cs.tulane.edu/~aculotta/nlp/theend/tips.html)                  | 
 | 05/11 | project presentations (9a-11a)                                          |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
