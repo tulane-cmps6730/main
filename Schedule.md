@@ -33,9 +33,9 @@ subject to change
 | 04/02 | &nbsp;&nbsp;&nbsp;&nbsp;  [fairness, transparency, and ethics](http://cs.tulane.edu/~aculotta/nlp/ethics/ethics.html)   | [H&S](https://www.aclweb.org/anthology/P16-2096.pdf)+[Video](https://www.youtube.com/watch?v=fMym_BKWQzk) | Q3
 | | **chatbots** |
 | 04/04 | &nbsp;&nbsp;&nbsp;&nbsp; gpt / [text generation](http://cs.tulane.edu/~aculotta/nlp/chat/chat1.html) / [chatbots](http://cs.tulane.edu/~aculotta/nlp/chat/chat2.html)  |  [SLP24](read/slp24.pdf) |
-| 04/09 | &nbsp;&nbsp;&nbsp;&nbsp; rhlf                   |   |  
+| 04/09 | &nbsp;&nbsp;&nbsp;&nbsp; rhlf                   | Q4  |  
 | 04/11 | &nbsp;&nbsp;&nbsp;&nbsp; rhlf                |   | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
-| 04/16 | &nbsp;&nbsp;&nbsp;&nbsp; rag                |   | Q4
+| 04/16 | &nbsp;&nbsp;&nbsp;&nbsp; rag                |   | 
 | 04/18 | &nbsp;&nbsp;&nbsp;&nbsp; recent research                |   | 
 | 04/23 | &nbsp;&nbsp;&nbsp;&nbsp; recent research /  [wrapup, project tips](http://cs.tulane.edu/~aculotta/nlp/theend/tips.html)                     |   | 
 | 04/25 | project presentations            | 
