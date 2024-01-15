@@ -26,11 +26,11 @@ subject to change
 | 03/14 | &nbsp;&nbsp;&nbsp;&nbsp; [encoder-decoder 2](http://cs.tulane.edu/~aculotta/nlp/translation/translation1.html)                    | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | 
 | | **parsing** |
 | 03/19 | &nbsp;&nbsp;&nbsp;&nbsp; [context-free grammars](http://cs.tulane.edu/~aculotta/nlp/parsing/cfg.html)  / [cky parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/pcfg.html)                 | [SLP12](read/slp12.pdf) - [SLP13](read/slp13.pdf)    
-| 03/21 | &nbsp;&nbsp;&nbsp;&nbsp; [dependency parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/dependency.html)                    |   [SLP14](read/slp14.pdf)   | Q3 / [Project milestone](https://github.com/tulane-cmps6730/assignments/tree/main/project)
+| 03/21 | &nbsp;&nbsp;&nbsp;&nbsp; [dependency parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/dependency.html)                    |   [SLP14](read/slp14.pdf)   |[Project milestone](https://github.com/tulane-cmps6730/assignments/tree/main/project)
 | 03/26 | --*spring break*--
 | 03/28 | --*spring break*--
 | | **ethics** |
-| 04/02 | &nbsp;&nbsp;&nbsp;&nbsp;  [fairness, transparency, and ethics](http://cs.tulane.edu/~aculotta/nlp/ethics/ethics.html)   | [H&S](https://www.aclweb.org/anthology/P16-2096.pdf)+[Video](https://www.youtube.com/watch?v=fMym_BKWQzk) |
+| 04/02 | &nbsp;&nbsp;&nbsp;&nbsp;  [fairness, transparency, and ethics](http://cs.tulane.edu/~aculotta/nlp/ethics/ethics.html)   | [H&S](https://www.aclweb.org/anthology/P16-2096.pdf)+[Video](https://www.youtube.com/watch?v=fMym_BKWQzk) | Q3
 | | **chatbots** |
 | 04/04 | &nbsp;&nbsp;&nbsp;&nbsp; gpt / [text generation](http://cs.tulane.edu/~aculotta/nlp/chat/chat1.html) / [chatbots](http://cs.tulane.edu/~aculotta/nlp/chat/chat2.html)  |  [SLP24](read/slp24.pdf) |
 | 04/09 | &nbsp;&nbsp;&nbsp;&nbsp; rhlf                   |   |  
