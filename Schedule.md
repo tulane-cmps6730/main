@@ -36,8 +36,8 @@ subject to change
 | 04/09 | &nbsp;&nbsp;&nbsp;&nbsp; rhlf                   |  | Q4  
 | 04/11 | &nbsp;&nbsp;&nbsp;&nbsp; rhlf                |   | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
 | 04/16 | &nbsp;&nbsp;&nbsp;&nbsp; rag                |   | 
-| 04/18 | &nbsp;&nbsp;&nbsp;&nbsp; recent research                |   | 
-| 04/23 | &nbsp;&nbsp;&nbsp;&nbsp; recent research /  [wrapup, project tips](http://cs.tulane.edu/~aculotta/nlp/theend/tips.html)                     |   | 
+| 04/18 | &nbsp;&nbsp;&nbsp;&nbsp; [wrapup, project tips](http://cs.tulane.edu/~aculotta/nlp/theend/tips.html) / recent research                |   | 
+| 04/23 | &nbsp;&nbsp;&nbsp;&nbsp; recent research                        |   | 
 | 04/25 | project presentations            | 
 | 04/30 | project presentations                                         |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
 | tbd | --**test 2 (takehome)**--                            |                |
