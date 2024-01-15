@@ -18,7 +18,7 @@ subject to change
 | 02/20 | &nbsp;&nbsp;&nbsp;&nbsp; [hidden markov models](http://cs.tulane.edu/~aculotta/nlp/sequence/hmm1.html)                  | [SLP8](read/slp8.pdf)
 | 02/22 | &nbsp;&nbsp;&nbsp;&nbsp; [hidden markov models](http://cs.tulane.edu/~aculotta/nlp/sequence/hmm2.html)                  | [SLPA](read/slpA.pdf)   | Q2
 | 02/27 |  &nbsp;&nbsp;&nbsp;&nbsp; [recurrent neural networks](http://cs.tulane.edu/~aculotta/nlp/sequence/rnn.html)              | [SLP9](read/slp9.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html), [Awesome blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)   |          
-| 02/29 | &nbsp;&nbsp;&nbsp;&nbsp; [long short-term memory](http://cs.tulane.edu/~aculotta/nlp/sequence/lstm.html)                 | [SLP9](read/slp9.pdf), [Lipton](https://arxiv.org/abs/1506.00019) | [Project proposal](https://tulane.instructure.com/courses/2232081/discussion_topics/13155238)
+| 02/29 | &nbsp;&nbsp;&nbsp;&nbsp; [long short-term memory](http://cs.tulane.edu/~aculotta/nlp/sequence/lstm.html)                 | [SLP9](read/slp9.pdf), [Lipton](https://arxiv.org/abs/1506.00019) | [Project proposal](https://tulane.instructure.com/courses/2277724/discussion_topics/13574893)
 | 03/05 | &nbsp;&nbsp;&nbsp;&nbsp; [transformers](http://cs.tulane.edu/~aculotta/nlp/sequence/transformer.html)              | [SLP9](read/slp9.pdf)
 | 03/07 |  --**test 1**--           |       | 
 | | **translation** |
@@ -26,7 +26,7 @@ subject to change
 | 03/14 | &nbsp;&nbsp;&nbsp;&nbsp; [encoder-decoder 2](http://cs.tulane.edu/~aculotta/nlp/translation/translation1.html)                    | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | 
 | | **parsing** |
 | 03/19 | &nbsp;&nbsp;&nbsp;&nbsp; [context-free grammars](http://cs.tulane.edu/~aculotta/nlp/parsing/cfg.html)  / [cky parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/pcfg.html)                 | [SLP12](read/slp12.pdf) - [SLP13](read/slp13.pdf)    
-| 03/21 | &nbsp;&nbsp;&nbsp;&nbsp; [dependency parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/dependency.html)                    |   [SLP14](read/slp14.pdf)   | Q3 / [Project milestone](https://tulane.instructure.com/courses/2277724/discussion_topics/13574893)
+| 03/21 | &nbsp;&nbsp;&nbsp;&nbsp; [dependency parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/dependency.html)                    |   [SLP14](read/slp14.pdf)   | Q3 / [Project milestone](https://github.com/tulane-cmps6730/assignments/tree/main/project)
 | 03/26 | --*spring break*--
 | 03/28 | --*spring break*--
 | | **ethics** |
