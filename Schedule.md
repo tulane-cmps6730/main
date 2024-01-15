@@ -13,7 +13,7 @@ subject to change
 | 02/06 | &nbsp;&nbsp;&nbsp;&nbsp; [neural models: word2vec](http://cs.tulane.edu/~aculotta/nlp/language_models/word2vec.html)        | [SLP6](read/slp6.pdf)    
 | 02/08 | &nbsp;&nbsp;&nbsp;&nbsp; [bert / elmo](http://cs.tulane.edu/~aculotta/nlp/language_models/elmo.html)                            | [Smith](https://arxiv.org/pdf/1902.06006.pdf), [Devlin](https://arxiv.org/pdf/1810.04805.pdf) |  [HW1](https://github.com/tulane-cmps6730/assignments/tree/main/hw1)
 | 02/13 | --*mardi gras*--
-| 02/15 | pytorch handson
+| 02/15 | pytorch hands-on
 | | **sequence labeling** |
 | 02/20 | &nbsp;&nbsp;&nbsp;&nbsp; [hidden markov models](http://cs.tulane.edu/~aculotta/nlp/sequence/hmm1.html)                  | [SLP8](read/slp8.pdf)
 | 02/22 | &nbsp;&nbsp;&nbsp;&nbsp; [hidden markov models](http://cs.tulane.edu/~aculotta/nlp/sequence/hmm2.html)                  | [SLPA](read/slpA.pdf)   | Q2
