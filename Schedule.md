@@ -23,10 +23,10 @@ subject to change
 | 03/07 |  --**test 1**--           |       | 
 | | **translation** |
 | 03/12 | &nbsp;&nbsp;&nbsp;&nbsp; [encoder-decoder 1](http://cs.tulane.edu/~aculotta/nlp/translation/translation1.html)                     | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html) | [HW2](https://github.com/tulane-cmps6730/assignments/tree/main/hw2) 
-| 03/14 | &nbsp;&nbsp;&nbsp;&nbsp; [encoder-decoder 2](http://cs.tulane.edu/~aculotta/nlp/translation/translation1.html)                    | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | <del>Q3</del>
+| 03/14 | &nbsp;&nbsp;&nbsp;&nbsp; [encoder-decoder 2](http://cs.tulane.edu/~aculotta/nlp/translation/translation1.html)                    | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | 
 | | **parsing** |
 | 03/19 | &nbsp;&nbsp;&nbsp;&nbsp; [context-free grammars](http://cs.tulane.edu/~aculotta/nlp/parsing/cfg.html)  / [cky parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/pcfg.html)                 | [SLP12](read/slp12.pdf) - [SLP13](read/slp13.pdf)    
-| 03/21 | &nbsp;&nbsp;&nbsp;&nbsp; [dependency parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/dependency.html)                    |   [SLP14](read/slp14.pdf)   | Q4 / [Project milestone](https://tulane.instructure.com/courses/2232081/discussion_topics/13155239)
+| 03/21 | &nbsp;&nbsp;&nbsp;&nbsp; [dependency parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/dependency.html)                    |   [SLP14](read/slp14.pdf)   | Q3 / [Project milestone](https://tulane.instructure.com/courses/2232081/discussion_topics/13155239)
 | 03/26 | --*spring break*--
 | 03/28 | --*spring break*--
 | | **ethics** |
@@ -35,7 +35,7 @@ subject to change
 | 04/04 | &nbsp;&nbsp;&nbsp;&nbsp; gpt / [text generation](http://cs.tulane.edu/~aculotta/nlp/chat/chat1.html) / [hatbots](http://cs.tulane.edu/~aculotta/nlp/chat/chat2.html)  |  [SLP24](read/slp24.pdf) |
 | 04/09 | &nbsp;&nbsp;&nbsp;&nbsp; rhlf                   |   |  
 | 04/11 | &nbsp;&nbsp;&nbsp;&nbsp; rhlf                |   | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
-| 04/16 | &nbsp;&nbsp;&nbsp;&nbsp; rag                |   | Q5
+| 04/16 | &nbsp;&nbsp;&nbsp;&nbsp; rag                |   | Q4
 | 04/18 | &nbsp;&nbsp;&nbsp;&nbsp; recent research                |   | 
 | 04/23 | &nbsp;&nbsp;&nbsp;&nbsp; recent research /  [wrapup, project tips](http://cs.tulane.edu/~aculotta/nlp/theend/tips.html)                     |   | 
 | 04/25 | project presentations            | 
