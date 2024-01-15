@@ -9,7 +9,7 @@ subject to change
 | 01/25 | &nbsp;&nbsp;&nbsp;&nbsp; [neural nets](http://cs.tulane.edu/~aculotta/nlp/classify/neural.html)                           | [SLP7](read/slp7.pdf)                              | Q1
 | | **language models** |
 | 01/30 | &nbsp;&nbsp;&nbsp;&nbsp; [n-grams](http://cs.tulane.edu/~aculotta/nlp/language_models/ngrams.html)                               | [SLP3](read/slp3.pdf)                             | HW0
-| 02/01 | &nbsp;&nbsp;&nbsp;&nbsp; [word representations](http://cs.tulane.edu/~aculotta/nlp/language_models/word_rep.html)                   | [SLP6](read/slp6.pdf)                             | [Project ideas](https://tulane.instructure.com/courses/2232081/discussion_topics/13155237)
+| 02/01 | &nbsp;&nbsp;&nbsp;&nbsp; [word representations](http://cs.tulane.edu/~aculotta/nlp/language_models/word_rep.html)                   | [SLP6](read/slp6.pdf)                             | [Project ideas](https://tulane.instructure.com/courses/2277724/discussion_topics/13574894)
 | 02/06 | &nbsp;&nbsp;&nbsp;&nbsp; [neural models: word2vec](http://cs.tulane.edu/~aculotta/nlp/language_models/word2vec.html)        | [SLP6](read/slp6.pdf)    
 | 02/08 | &nbsp;&nbsp;&nbsp;&nbsp; [bert / elmo](http://cs.tulane.edu/~aculotta/nlp/language_models/elmo.html)                            | [Smith](https://arxiv.org/pdf/1902.06006.pdf), [Devlin](https://arxiv.org/pdf/1810.04805.pdf) |  [HW1](https://github.com/tulane-cmps6730/assignments/tree/main/hw1)
 | 02/13 | --*mardi gras*--
@@ -26,7 +26,7 @@ subject to change
 | 03/14 | &nbsp;&nbsp;&nbsp;&nbsp; [encoder-decoder 2](http://cs.tulane.edu/~aculotta/nlp/translation/translation1.html)                    | [SLP11](read/slp11.pdf), [G10](https://www.deeplearningbook.org/contents/rnn.html)    | 
 | | **parsing** |
 | 03/19 | &nbsp;&nbsp;&nbsp;&nbsp; [context-free grammars](http://cs.tulane.edu/~aculotta/nlp/parsing/cfg.html)  / [cky parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/pcfg.html)                 | [SLP12](read/slp12.pdf) - [SLP13](read/slp13.pdf)    
-| 03/21 | &nbsp;&nbsp;&nbsp;&nbsp; [dependency parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/dependency.html)                    |   [SLP14](read/slp14.pdf)   | Q3 / [Project milestone](https://tulane.instructure.com/courses/2232081/discussion_topics/13155239)
+| 03/21 | &nbsp;&nbsp;&nbsp;&nbsp; [dependency parsing](http://cs.tulane.edu/~aculotta/nlp/parsing/dependency.html)                    |   [SLP14](read/slp14.pdf)   | Q3 / [Project milestone](https://tulane.instructure.com/courses/2277724/discussion_topics/13574893)
 | 03/26 | --*spring break*--
 | 03/28 | --*spring break*--
 | | **ethics** |
