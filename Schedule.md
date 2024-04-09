@@ -33,9 +33,9 @@ subject to change
 | 04/02 | &nbsp;&nbsp;&nbsp;&nbsp;  [fairness, transparency, and ethics](https://github.com/tulane-cmps6730/main/blob/main/lec/ethics/ethics.ipynb)   | [H&S](https://www.aclweb.org/anthology/P16-2096.pdf)+[Video](https://www.youtube.com/watch?v=fMym_BKWQzk) | Q3
 | | **chatbots** |
 | 04/04 | &nbsp;&nbsp;&nbsp;&nbsp; gpt / [text generation](https://github.com/tulane-cmps6730/main/blob/main/lec/chat/chat1.ipynb) / [chatbots](https://github.com/tulane-cmps6730/main/blob/main/lec/chat/chat2.ipynb)  |  [SLP24](read/slp24.pdf) |
-| 04/09 | &nbsp;&nbsp;&nbsp;&nbsp; rlhf                   |  | Q4  
+| 04/09 | &nbsp;&nbsp;&nbsp;&nbsp; rlhf                   |  |   
 | 04/11 | &nbsp;&nbsp;&nbsp;&nbsp; rlhf                |   | 
-| 04/16 | &nbsp;&nbsp;&nbsp;&nbsp; rag                |   | 
+| 04/16 | &nbsp;&nbsp;&nbsp;&nbsp; rag                |   | Q4
 | 04/18 | &nbsp;&nbsp;&nbsp;&nbsp; [wrapup, project tips](https://github.com/tulane-cmps6730/main/blob/main/lec/theend/tips.ipynb) / recent research                |   | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
 | 04/23 | &nbsp;&nbsp;&nbsp;&nbsp; recent research                        |   | 
 | 04/25 | project presentations            | 
