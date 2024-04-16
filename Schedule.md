@@ -40,5 +40,5 @@ subject to change
 | 04/23 | &nbsp;&nbsp;&nbsp;&nbsp; recent research                        |   | 
 | 04/25 | project presentations            | 
 | 04/30 | project presentations                                         |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
-| 05/03 | | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
-| tbd | --**test 2 (takehome)**--                            |                |
+| 05/03 | | | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
+| 05/04-05/07 | --**test 2 (takehome)**--                            |                |
