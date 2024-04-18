@@ -37,7 +37,7 @@ subject to change
 | 04/11 | &nbsp;&nbsp;&nbsp;&nbsp; [rlhf](https://github.com/tulane-cmps6730/main/blob/main/lec/chat/rlhf.ipynb)                |   | 
 | 04/16 | &nbsp;&nbsp;&nbsp;&nbsp; [rag](https://github.com/tulane-cmps6730/main/blob/main/lec/chat/rag.ipynb)                |   | Q4
 | 04/18 | &nbsp;&nbsp;&nbsp;&nbsp; [wrapup, project tips](https://github.com/tulane-cmps6730/main/blob/main/lec/theend/tips.ipynb) / recent research                |   | 
-| 04/23 | &nbsp;&nbsp;&nbsp;&nbsp; recent research                        |   | 
+| 04/23 | &nbsp;&nbsp;&nbsp;&nbsp; no class (SSE Expo)                        |   | 
 | 04/25 | project presentations            | 
 | 04/30 | project presentations                                         |               | [final project deliverables](https://github.com/tulane-cmps6730/assignments/tree/main/project)
 | 05/03 | | | [HW3](https://github.com/tulane-cmps6730/assignments/tree/main/hw3) 
