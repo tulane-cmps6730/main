@@ -35,7 +35,7 @@ subject to change
 | 04/04 | &nbsp;&nbsp;&nbsp;&nbsp; gpt / [text generation](https://github.com/tulane-cmps6730/main/blob/main/lec/chat/chat1.ipynb) / [chatbots](https://github.com/tulane-cmps6730/main/blob/main/lec/chat/chat2.ipynb)  |  [SLP24](read/slp24.pdf) |
 | 04/09 | &nbsp;&nbsp;&nbsp;&nbsp; [rlhf](https://github.com/tulane-cmps6730/main/blob/main/lec/chat/rlhf.ipynb)                   |  |   
 | 04/11 | &nbsp;&nbsp;&nbsp;&nbsp; [rlhf](https://github.com/tulane-cmps6730/main/blob/main/lec/chat/rlhf.ipynb)                |   | 
-| 04/16 | &nbsp;&nbsp;&nbsp;&nbsp; rag                |   | Q4
+| 04/16 | &nbsp;&nbsp;&nbsp;&nbsp; [rag](https://github.com/tulane-cmps6730/main/blob/main/lec/chat/rag.ipynb)                |   | Q4
 | 04/18 | &nbsp;&nbsp;&nbsp;&nbsp; [wrapup, project tips](https://github.com/tulane-cmps6730/main/blob/main/lec/theend/tips.ipynb) / recent research                |   | 
 | 04/23 | &nbsp;&nbsp;&nbsp;&nbsp; recent research                        |   | 
 | 04/25 | project presentations            | 
