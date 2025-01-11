@@ -2,10 +2,7 @@
 ## tulane university
 ### aron culotta
 
-### contents
+This repository contains [notebooks](Colab notebooks) for CMPS 4730 / 6730 Natural Language Processing.
 
-- [course schedule](Schedule.md)
-- [lecture notes](lec)
-- [readings](read)
 
 
